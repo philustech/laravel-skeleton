@@ -7,3 +7,5 @@ disabled:
   - concat_without_spaces
   - cast_spaces
   - length_ordered_imports
+  - phpdoc_summary
+  - phpdoc_no_package
